@@ -57,7 +57,8 @@ end
 #####################################################
 
 def runner
-  # code runner here  welcome
+  # code runner here  
+    welcome
 	  playing = true
 	  current_hand = initial_round
 	
